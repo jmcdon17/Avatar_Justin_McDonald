@@ -3,7 +3,8 @@
     "",
     "\\brainwave-prediction-app",
     "\\brainwave-prediction-app\\client",
-    "\\brainwave-prediction-app\\client\\gui_windows"
+    "\\brainwave-prediction-app\\client\\gui_windows",
+    "\\brainwave-prediction-app\\gui_windows"
   ],
   "SelectedNode": "\\brainwave-prediction-app\\GUI.py",
   "PreviewInSolutionExplorer": false
