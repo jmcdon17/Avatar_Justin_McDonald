@@ -1,4 +1,4 @@
-#Triston T Larson, Caroline M Camejo-Martir, Justin M McDonald
+#Authors: Triston T Larson, Caroline M Camejo-Martir, Justin M McDonald
 import PySimpleGUI as sg
 import sys
 from .signal_module import signalling_system as sgsys
